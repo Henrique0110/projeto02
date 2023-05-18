@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0001",
+        "nome": "Fulano de Oliveira",
+        "idade": "32"
+    },
+    {
+        "id": "0002",
+        "nome": "João da Silva",
+        "idade": "35"
+    },
+    {
+        "id": "0003",
+        "nome": "Maria da Silva",
+        "idade": "52"
+    },
+    {
+        "id": "0004",
+        "nome": "Bartolomeu de Gusmão",
+        "idade": "60"
+    }
+]
